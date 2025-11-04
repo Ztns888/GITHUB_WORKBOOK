@@ -1,6 +1,6 @@
-# **[Data Skills Bootcamp]{.underline}**
+# Data Skills Bootcamp
 
-**[Week 1]{.underline}**
+Week 1
 
 In week 1, I learned how to use formulas in Excel which will allow me to
 analyse and visualise data which helps me to clearly show the results I
@@ -15,7 +15,7 @@ formulas such as 'SUM, 'AVERAGE' and 'SWITCH'.
 
 <img width="496" height="157" alt="Week_1_Excel" src="https://github.com/user-attachments/assets/1d570e3a-8068-410d-a4ed-0dc1429d10d5" />
 
-**[Week 2]{.underline}**
+Week 2
 
 Week 2 consisted of learning how to use Tableau and PowerBI, these two
 platforms are effective when creating dashboards and taking a deeper
@@ -28,7 +28,7 @@ between the average loudness of a song and popularity.
 <img width="446" height="255" alt="Spotify_Genre_Popularity" src="https://github.com/user-attachments/assets/a8f39615-fa84-4332-94da-2521f2d3649a" />
 
 
-**[Week 3]{.underline}**
+Week 3
 
 In the third week I have dived into SQL (Structed Query Language), this
 software here helps the user to store, organise and retrieve from a
@@ -45,7 +45,7 @@ updated to show pending or delivered status and update the stock list.
 <img width="573" height="338" alt="Week_3_SQL" src="https://github.com/user-attachments/assets/0d031b63-2940-4611-b30a-e4ad3f94c3c7" />
 
 
-**[Week 4]{.underline}**
+Week 4
 
 In week 4, I worked with cloud computing and Microsoft Azure. I learned
 the differences between IaaS, PaaS and SaaS, and explored how
@@ -57,7 +57,7 @@ model and mine relational and non-relational databases.
 
 <img width="396" height="262" alt="Week_4_Azure" src="https://github.com/user-attachments/assets/a19fb914-52f8-4b7f-bda2-e5d2a2315709" />
 
-**[Week 5]{.underline}**
+Week 5
 
 Week 5 introduced Python programming for data analysis. I learned how to
 load CSV files using pandas, clean and transform data, create new
