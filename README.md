@@ -47,7 +47,7 @@ updated to show pending or delivered status and update the stock list.
 
 Week 4
 
-In week 4, I worked with cloud computing and Microsoft Azure. I learned
+In week 4, I worked with a cloud computing software Microsoft Azure. I learned
 the differences between IaaS, PaaS and SaaS, and explored how
 organisations deploy cloud solutions for scalability and security. I
 also practised using Azure SQL Database, Azure Blob Storage and Azure
